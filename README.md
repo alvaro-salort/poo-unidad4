@@ -64,12 +64,12 @@ java -cp bin ejercitacion4_1.ejercicio10.ProcesadorMatricula
 
 ---
 
-**Elrond:** "¡Isildur! ¡Destruye el anillo! ¡Arrójalo al fuego!"
-
-**Isildur:**
-
-```java
-public void destruirAnillo() throws NiEnPedoException {
-    // Que se haga cargo Frodo en la próxima ejecución.
-}
-```
+>**Elrond:** "¡Isildur! ¡Destruye el anillo! ¡Arrójalo al fuego!"
+>
+>**Isildur:**
+>
+>```java
+>public void destruirAnillo() throws NiEnPedoException {
+>    // Que se haga cargo Frodo en la próxima ejecución.
+>}
+>```
